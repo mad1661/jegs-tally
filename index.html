@@ -35,7 +35,7 @@ function tick(){if(!upd)return;const t=new Date(upd);if(isNaN(t))return;
  document.getElementById('up').textContent='Updated '+t.toLocaleTimeString('en-US',{timeZone:'America/Chicago',hour:'numeric',minute:'2-digit',hour12:true}).replace(/ [AP]M/,'')+' CT';
  document.getElementById('st').style.display=(Date.now()-t>300000)?'inline':'none'}
 async function load(){try{const d=await (await fetch('totals.json?t='+Date.now(),{cache:'no-store'})).json();
- document.getElementById('lp').textContent=g(d,'last_pair','lastPair');upd=g(d,'updated_ct','updated','updated_at');
+ let lp=g(d,'last_pair','lastPair');if(lp&&typeof lp==='object')lp=[lp.time_ct?lp.time_ct+' CT':'',[lp.class,lp.round].filter(Boolean).join(' ')+':',Array.isArray(lp.names)?lp.names.join(' vs '):(lp.names||'')].join(' ').trim();document.getElementById('lp').textContent=lp;upd=d.updated_epoch?(d.updated_epoch<1e12?d.updated_epoch*1000:d.updated_epoch):g(d,'updated_ct','updated','updated_at');
  fill('dv',g(d,'divisions','division'));fill('rg',g(d,'regions','regional'));tick()}catch(e){}}
 load();setInterval(load,20000);setInterval(tick,15000);
 </script></body></html>
