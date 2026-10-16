@@ -1,3 +1,89 @@
-{"event":"Texas FallNationals","status":"unofficial","last_pair":"Alcohol Funny Car E1: Phil Esz vs Mick Steele","updated_ct":"2026-10-16T16:20:00-05:00",
-"divisions":[{"rk":1,"team":"D3","pts":400,"drv":5,"blk":1},{"rk":1,"team":"D4","pts":400,"drv":5,"blk":1},{"rk":3,"team":"D2","pts":300,"drv":5,"blk":3},{"rk":4,"team":"D1","pts":200,"drv":5,"blk":0},{"rk":4,"team":"D5","pts":200,"drv":5,"blk":0},{"rk":4,"team":"D6","pts":200,"drv":5,"blk":0},{"rk":4,"team":"D7","pts":200,"drv":5,"blk":0}],
-"regions":[{"rk":1,"team":"East","pts":300,"drv":4,"blk":1},{"rk":2,"team":"Central","pts":200,"drv":4,"blk":0},{"rk":2,"team":"West","pts":200,"drv":4,"blk":1}]}
+{
+ "event": "JEGS Allstars \u00b7 Texas FallNationals",
+ "status": "UNOFFICIAL",
+ "last_pair": {
+  "time_ct": "15:36:10",
+  "class": "Alcohol Funny Car",
+  "round": "E1",
+  "names": [
+   "Phil Esz",
+   "Mick Steele"
+  ]
+ },
+ "updated_ct": "4:19 PM CT",
+ "updated_epoch": 1792185591,
+ "divisions": [
+  {
+   "rk": 1,
+   "team": "D3",
+   "pts": 400,
+   "drv": 5,
+   "blk": 1
+  },
+  {
+   "rk": 1,
+   "team": "D4",
+   "pts": 400,
+   "drv": 5,
+   "blk": 1
+  },
+  {
+   "rk": 3,
+   "team": "D2",
+   "pts": 300,
+   "drv": 5,
+   "blk": 3
+  },
+  {
+   "rk": 4,
+   "team": "D1",
+   "pts": 200,
+   "drv": 5,
+   "blk": 0
+  },
+  {
+   "rk": 4,
+   "team": "D5",
+   "pts": 200,
+   "drv": 5,
+   "blk": 0
+  },
+  {
+   "rk": 4,
+   "team": "D6",
+   "pts": 200,
+   "drv": 5,
+   "blk": 0
+  },
+  {
+   "rk": 4,
+   "team": "D7",
+   "pts": 200,
+   "drv": 5,
+   "blk": 0
+  }
+ ],
+ "regions": [
+  {
+   "rk": 1,
+   "team": "EAST",
+   "pts": 300,
+   "drv": 4,
+   "blk": 1
+  },
+  {
+   "rk": 2,
+   "team": "CENTRAL",
+   "pts": 200,
+   "drv": 4,
+   "blk": 0
+  },
+  {
+   "rk": 2,
+   "team": "WEST",
+   "pts": 200,
+   "drv": 4,
+   "blk": 1
+  }
+ ]
+}
