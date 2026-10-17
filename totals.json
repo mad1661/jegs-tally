@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "14:38:03",
+  "time_ct": "14:39:16",
   "class": "Top Sportsman",
   "round": "E2",
   "names": [
-   "Benji Martin",
-   "Denny Dowson"
+   "Lance Abbott",
+   "Mike Chitty"
   ]
  },
- "updated_ct": "2:40 PM CT",
- "updated_epoch": 1792266014,
+ "updated_ct": "2:41 PM CT",
+ "updated_epoch": 1792266074,
  "divisions": [
   {
    "rk": 1,
@@ -49,9 +49,9 @@
    "blk": 4
   },
   {
-   "rk": 6,
+   "rk": 4,
    "team": "D5",
-   "pts": 400,
+   "pts": 500,
    "drv": 8,
    "blk": 0
   },
