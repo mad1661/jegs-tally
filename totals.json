@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "17:22:46",
-  "class": "Super Gas",
+  "time_ct": "17:25:06",
+  "class": "Super Stock",
   "round": "E3",
   "names": [
-   "Bo Butner III",
-   "Charlie Stewart"
+   "Larry Hodge",
+   "Jimmy Hidalgo Jr."
   ]
  },
- "updated_ct": "5:26 PM CT",
- "updated_epoch": 1792275977,
+ "updated_ct": "5:27 PM CT",
+ "updated_epoch": 1792276037,
  "divisions": [
   {
    "rk": 1,
@@ -23,7 +23,7 @@
   {
    "rk": 2,
    "team": "D3",
-   "pts": 1000,
+   "pts": 1100,
    "drv": 8,
    "blk": 3
   },
