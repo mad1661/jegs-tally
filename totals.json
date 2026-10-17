@@ -2,21 +2,21 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "17:26:56",
-  "class": "Stock Eliminator",
+  "time_ct": "17:28:38",
+  "class": "Top Dragster",
   "round": "E3",
   "names": [
-   "Brad Burton",
-   "Jeff Strickland"
+   "JR Baxter",
+   "Dylan Hough"
   ]
  },
- "updated_ct": "5:29 PM CT",
- "updated_epoch": 1792276157,
+ "updated_ct": "5:30 PM CT",
+ "updated_epoch": 1792276226,
  "divisions": [
   {
    "rk": 1,
    "team": "D4",
-   "pts": 1300,
+   "pts": 1400,
    "drv": 8,
    "blk": 1
   },
