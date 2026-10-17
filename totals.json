@@ -2,21 +2,21 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "17:30:17",
-  "class": "Top Sportsman",
+  "time_ct": "17:32:33",
+  "class": "Comp Eliminator",
   "round": "E3",
   "names": [
-   "Benji Martin",
-   "Mike Chitty"
+   "Glen Treadwell",
+   "Jeff Taylor"
   ]
  },
- "updated_ct": "5:33 PM CT",
- "updated_epoch": 1792276397,
+ "updated_ct": "5:34 PM CT",
+ "updated_epoch": 1792276460,
  "divisions": [
   {
    "rk": 1,
    "team": "D4",
-   "pts": 1400,
+   "pts": 1500,
    "drv": 8,
    "blk": 1
   },
