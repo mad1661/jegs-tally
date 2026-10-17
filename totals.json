@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "19:36:43",
+  "time_ct": "19:40:16",
   "class": "Alcohol Dragster",
   "round": "E2",
   "names": [
-   "Jamie Noonan",
-   "Melanie Johnson"
+   "Jon Bradford",
+   "Jackie Fricke"
   ]
  },
- "updated_ct": "9:31 PM CT",
- "updated_epoch": 1792204309,
+ "updated_ct": "10:00 AM CT",
+ "updated_epoch": 1792249250,
  "divisions": [
   {
    "rk": 1,
@@ -66,17 +66,17 @@
  "regions": [
   {
    "rk": 1,
+   "team": "EAST",
+   "pts": 400,
+   "drv": 4,
+   "blk": 1
+  },
+  {
+   "rk": 1,
    "team": "CENTRAL",
    "pts": 400,
    "drv": 4,
    "blk": 0
-  },
-  {
-   "rk": 2,
-   "team": "EAST",
-   "pts": 300,
-   "drv": 4,
-   "blk": 1
   },
   {
    "rk": 3,
