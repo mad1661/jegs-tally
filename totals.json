@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "10:35:34",
-  "class": "Top Sportsman",
+  "time_ct": "10:49:03",
+  "class": "Comp Eliminator",
   "round": "E1",
   "names": [
-   "Lance Abbott",
-   "Darian Boesch"
+   "",
+   "Glen Treadwell"
   ]
  },
- "updated_ct": "10:49 AM CT",
- "updated_epoch": 1792252191,
+ "updated_ct": "10:50 AM CT",
+ "updated_epoch": 1792252251,
  "divisions": [
   {
    "rk": 1,
@@ -25,7 +25,7 @@
    "team": "D2",
    "pts": 400,
    "drv": 7,
-   "blk": 3
+   "blk": 4
   },
   {
    "rk": 2,
