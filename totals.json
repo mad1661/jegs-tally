@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "19:10:15",
+  "time_ct": "19:14:26",
   "class": "Alcohol Funny Car",
   "round": "E2",
   "names": [
-   "Phil Esz",
-   "Chris Foster"
+   "Sean Bellemeur",
+   "Shane Westerfield"
   ]
  },
- "updated_ct": "7:35 PM CT",
- "updated_epoch": 1792197354,
+ "updated_ct": "7:36 PM CT",
+ "updated_epoch": 1792197414,
  "divisions": [
   {
    "rk": 1,
@@ -72,14 +72,14 @@
    "blk": 1
   },
   {
-   "rk": 2,
+   "rk": 1,
    "team": "CENTRAL",
-   "pts": 200,
+   "pts": 300,
    "drv": 4,
    "blk": 0
   },
   {
-   "rk": 2,
+   "rk": 3,
    "team": "WEST",
    "pts": 200,
    "drv": 4,
