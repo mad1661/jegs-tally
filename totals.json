@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "14:35:29",
-  "class": "Comp Eliminator",
+  "time_ct": "14:38:03",
+  "class": "Top Sportsman",
   "round": "E2",
   "names": [
-   "Joe Carnasciale",
-   "Glen Treadwell"
+   "Benji Martin",
+   "Denny Dowson"
   ]
  },
- "updated_ct": "2:38 PM CT",
- "updated_epoch": 1792265894,
+ "updated_ct": "2:39 PM CT",
+ "updated_epoch": 1792265954,
  "divisions": [
   {
    "rk": 1,
@@ -30,7 +30,7 @@
   {
    "rk": 3,
    "team": "D6",
-   "pts": 600,
+   "pts": 700,
    "drv": 8,
    "blk": 0
   },
