@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "19:14:26",
-  "class": "Alcohol Funny Car",
+  "time_ct": "19:36:43",
+  "class": "Alcohol Dragster",
   "round": "E2",
   "names": [
-   "Sean Bellemeur",
-   "Shane Westerfield"
+   "Jamie Noonan",
+   "Melanie Johnson"
   ]
  },
- "updated_ct": "7:49 PM CT",
- "updated_epoch": 1792198194,
+ "updated_ct": "7:50 PM CT",
+ "updated_epoch": 1792198254,
  "divisions": [
   {
    "rk": 1,
@@ -66,17 +66,17 @@
  "regions": [
   {
    "rk": 1,
+   "team": "CENTRAL",
+   "pts": 400,
+   "drv": 4,
+   "blk": 0
+  },
+  {
+   "rk": 2,
    "team": "EAST",
    "pts": 300,
    "drv": 4,
    "blk": 1
-  },
-  {
-   "rk": 1,
-   "team": "CENTRAL",
-   "pts": 300,
-   "drv": 4,
-   "blk": 0
   },
   {
    "rk": 3,
