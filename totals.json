@@ -10,8 +10,8 @@
    "Darian Boesch"
   ]
  },
- "updated_ct": "10:38 AM CT",
- "updated_epoch": 1792251531,
+ "updated_ct": "10:39 AM CT",
+ "updated_epoch": 1792251591,
  "divisions": [
   {
    "rk": 1,
@@ -36,30 +36,30 @@
   },
   {
    "rk": 3,
+   "team": "D5",
+   "pts": 300,
+   "drv": 6,
+   "blk": 0
+  },
+  {
+   "rk": 3,
    "team": "D6",
    "pts": 300,
    "drv": 6,
    "blk": 0
   },
   {
-   "rk": 5,
+   "rk": 6,
    "team": "D1",
    "pts": 200,
    "drv": 6,
    "blk": 0
   },
   {
-   "rk": 5,
-   "team": "D5",
-   "pts": 200,
-   "drv": 5,
-   "blk": 0
-  },
-  {
-   "rk": 5,
+   "rk": 6,
    "team": "D7",
    "pts": 200,
-   "drv": 5,
+   "drv": 6,
    "blk": 0
   }
  ],
