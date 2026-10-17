@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "10:50:13",
+  "time_ct": "10:51:26",
   "class": "Super Street",
   "round": "E2",
   "names": [
-   "Kevin Myers",
-   "James Brown"
+   "Logan Diggs",
+   "Tony Hopkins"
   ]
  },
- "updated_ct": "10:51 AM CT",
- "updated_epoch": 1792252311,
+ "updated_ct": "10:52 AM CT",
+ "updated_epoch": 1792252371,
  "divisions": [
   {
    "rk": 1,
@@ -35,21 +35,21 @@
    "blk": 4
   },
   {
-   "rk": 4,
+   "rk": 3,
+   "team": "D5",
+   "pts": 400,
+   "drv": 7,
+   "blk": 0
+  },
+  {
+   "rk": 5,
    "team": "D1",
    "pts": 300,
    "drv": 7,
    "blk": 0
   },
   {
-   "rk": 4,
-   "team": "D5",
-   "pts": 300,
-   "drv": 7,
-   "blk": 0
-  },
-  {
-   "rk": 4,
+   "rk": 5,
    "team": "D6",
    "pts": 300,
    "drv": 7,
