@@ -10,14 +10,14 @@
    "Tony Hopkins"
   ]
  },
- "updated_ct": "11:05 AM CT",
- "updated_epoch": 1792253151,
+ "updated_ct": "11:06 AM CT",
+ "updated_epoch": 1792253211,
  "divisions": [
   {
    "rk": 1,
    "team": "D4",
-   "pts": 900,
-   "drv": 7,
+   "pts": 1000,
+   "drv": 8,
    "blk": 1
   },
   {
@@ -59,7 +59,7 @@
    "rk": 7,
    "team": "D7",
    "pts": 200,
-   "drv": 6,
+   "drv": 7,
    "blk": 0
   }
  ],
