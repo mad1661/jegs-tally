@@ -11,12 +11,12 @@
   ]
  },
  "updated_ct": "11:32 AM CT",
- "updated_epoch": 1792254754,
+ "updated_epoch": 1792254772,
  "divisions": [
   {
    "rk": 1,
    "team": "D4",
-   "pts": 1000,
+   "pts": 1100,
    "drv": 8,
    "blk": 1
   },
@@ -36,20 +36,20 @@
   },
   {
    "rk": 3,
-   "team": "D2",
-   "pts": 500,
-   "drv": 8,
-   "blk": 4
-  },
-  {
-   "rk": 3,
    "team": "D6",
    "pts": 500,
    "drv": 8,
    "blk": 0
   },
   {
-   "rk": 6,
+   "rk": 5,
+   "team": "D2",
+   "pts": 400,
+   "drv": 8,
+   "blk": 4
+  },
+  {
+   "rk": 5,
    "team": "D5",
    "pts": 400,
    "drv": 8,
