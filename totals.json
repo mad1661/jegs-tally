@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "10:49:03",
-  "class": "Comp Eliminator",
-  "round": "E1",
+  "time_ct": "10:50:13",
+  "class": "Super Street",
+  "round": "E2",
   "names": [
-   "",
-   "Glen Treadwell"
+   "Kevin Myers",
+   "James Brown"
   ]
  },
- "updated_ct": "10:50 AM CT",
- "updated_epoch": 1792252251,
+ "updated_ct": "10:51 AM CT",
+ "updated_epoch": 1792252311,
  "divisions": [
   {
    "rk": 1,
@@ -22,17 +22,17 @@
   },
   {
    "rk": 2,
+   "team": "D3",
+   "pts": 500,
+   "drv": 7,
+   "blk": 2
+  },
+  {
+   "rk": 3,
    "team": "D2",
    "pts": 400,
    "drv": 7,
    "blk": 4
-  },
-  {
-   "rk": 2,
-   "team": "D3",
-   "pts": 400,
-   "drv": 7,
-   "blk": 2
   },
   {
    "rk": 4,
