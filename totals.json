@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "14:39:16",
-  "class": "Top Sportsman",
-  "round": "E2",
+  "time_ct": "14:40:58",
+  "class": "Alcohol Funny Car",
+  "round": "E3",
   "names": [
-   "Lance Abbott",
-   "Mike Chitty"
+   "Chris Foster",
+   "Sean Bellemeur"
   ]
  },
- "updated_ct": "2:42 PM CT",
- "updated_epoch": 1792266134,
+ "updated_ct": "2:43 PM CT",
+ "updated_epoch": 1792266194,
  "divisions": [
   {
    "rk": 1,
@@ -66,17 +66,17 @@
  "regions": [
   {
    "rk": 1,
+   "team": "CENTRAL",
+   "pts": 500,
+   "drv": 4,
+   "blk": 0
+  },
+  {
+   "rk": 2,
    "team": "EAST",
    "pts": 400,
    "drv": 4,
    "blk": 1
-  },
-  {
-   "rk": 1,
-   "team": "CENTRAL",
-   "pts": 400,
-   "drv": 4,
-   "blk": 0
   },
   {
    "rk": 3,
