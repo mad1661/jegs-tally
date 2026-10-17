@@ -2,21 +2,21 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "17:18:44",
-  "class": "Super Street",
+  "time_ct": "17:20:39",
+  "class": "Super Comp",
   "round": "E3",
   "names": [
-   "Kevin Myers",
-   "Logan Diggs"
+   "Thomas J. Stalba Jr",
+   "Kyle Secrest"
   ]
  },
- "updated_ct": "5:21 PM CT",
- "updated_epoch": 1792275677,
+ "updated_ct": "5:22 PM CT",
+ "updated_epoch": 1792275750,
  "divisions": [
   {
    "rk": 1,
    "team": "D4",
-   "pts": 1200,
+   "pts": 1300,
    "drv": 8,
    "blk": 1
   },
