@@ -2,21 +2,21 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "11:05:16",
+  "time_ct": "14:30:28",
   "class": "Top Dragster",
-  "round": "E1",
+  "round": "E2",
   "names": [
-   "J R Baxter",
-   "Andy Spiegel"
+   "JR Baxter",
+   "Devin Isenhower"
   ]
  },
- "updated_ct": "2:31 PM CT",
- "updated_epoch": 1792265473,
+ "updated_ct": "2:32 PM CT",
+ "updated_epoch": 1792265533,
  "divisions": [
   {
    "rk": 1,
    "team": "D4",
-   "pts": 1000,
+   "pts": 1100,
    "drv": 8,
    "blk": 1
   },
@@ -24,7 +24,7 @@
    "rk": 2,
    "team": "D3",
    "pts": 800,
-   "drv": 8,
+   "drv": 9,
    "blk": 3
   },
   {
