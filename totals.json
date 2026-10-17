@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "14:30:28",
+  "time_ct": "14:32:19",
   "class": "Top Dragster",
   "round": "E2",
   "names": [
-   "JR Baxter",
-   "Devin Isenhower"
+   "Dylan Hough",
+   "Kevin Robb"
   ]
  },
- "updated_ct": "2:32 PM CT",
- "updated_epoch": 1792265533,
+ "updated_ct": "2:33 PM CT",
+ "updated_epoch": 1792265609,
  "divisions": [
   {
    "rk": 1,
@@ -29,24 +29,24 @@
   },
   {
    "rk": 3,
+   "team": "D6",
+   "pts": 600,
+   "drv": 8,
+   "blk": 0
+  },
+  {
+   "rk": 4,
    "team": "D1",
    "pts": 500,
    "drv": 8,
    "blk": 0
   },
   {
-   "rk": 3,
+   "rk": 4,
    "team": "D2",
    "pts": 500,
    "drv": 8,
    "blk": 4
-  },
-  {
-   "rk": 3,
-   "team": "D6",
-   "pts": 500,
-   "drv": 8,
-   "blk": 0
   },
   {
    "rk": 6,
