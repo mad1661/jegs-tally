@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "14:40:58",
-  "class": "Alcohol Funny Car",
+  "time_ct": "14:43:29",
+  "class": "Alcohol Dragster",
   "round": "E3",
   "names": [
-   "Chris Foster",
-   "Sean Bellemeur"
+   "Jackie Fricke",
+   "Meliane Johnson"
   ]
  },
- "updated_ct": "2:45 PM CT",
- "updated_epoch": 1792266314,
+ "updated_ct": "2:46 PM CT",
+ "updated_epoch": 1792266377,
  "divisions": [
   {
    "rk": 1,
@@ -67,7 +67,7 @@
   {
    "rk": 1,
    "team": "CENTRAL",
-   "pts": 500,
+   "pts": 600,
    "drv": 4,
    "blk": 0
   },
