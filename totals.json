@@ -2,16 +2,16 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "17:25:06",
-  "class": "Super Stock",
+  "time_ct": "17:26:56",
+  "class": "Stock Eliminator",
   "round": "E3",
   "names": [
-   "Larry Hodge",
-   "Jimmy Hidalgo Jr."
+   "Brad Burton",
+   "Jeff Strickland"
   ]
  },
- "updated_ct": "5:27 PM CT",
- "updated_epoch": 1792276037,
+ "updated_ct": "5:28 PM CT",
+ "updated_epoch": 1792276134,
  "divisions": [
   {
    "rk": 1,
@@ -36,20 +36,20 @@
   },
   {
    "rk": 4,
+   "team": "D2",
+   "pts": 600,
+   "drv": 8,
+   "blk": 4
+  },
+  {
+   "rk": 5,
    "team": "D1",
    "pts": 500,
    "drv": 8,
    "blk": 0
   },
   {
-   "rk": 4,
-   "team": "D2",
-   "pts": 500,
-   "drv": 8,
-   "blk": 4
-  },
-  {
-   "rk": 4,
+   "rk": 5,
    "team": "D5",
    "pts": 500,
    "drv": 8,
