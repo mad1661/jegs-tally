@@ -2,61 +2,61 @@
  "event": "JEGS Allstars \u00b7 Texas FallNationals",
  "status": "UNOFFICIAL",
  "last_pair": {
-  "time_ct": "19:40:16",
-  "class": "Alcohol Dragster",
-  "round": "E2",
+  "time_ct": "10:35:34",
+  "class": "Top Sportsman",
+  "round": "E1",
   "names": [
-   "Jon Bradford",
-   "Jackie Fricke"
+   "Lance Abbott",
+   "Darian Boesch"
   ]
  },
- "updated_ct": "10:37 AM CT",
- "updated_epoch": 1792251471,
+ "updated_ct": "10:38 AM CT",
+ "updated_epoch": 1792251531,
  "divisions": [
   {
    "rk": 1,
-   "team": "D3",
-   "pts": 400,
-   "drv": 5,
+   "team": "D4",
+   "pts": 500,
+   "drv": 6,
    "blk": 1
   },
   {
-   "rk": 1,
-   "team": "D4",
+   "rk": 2,
+   "team": "D3",
    "pts": 400,
-   "drv": 5,
-   "blk": 1
+   "drv": 6,
+   "blk": 2
   },
   {
    "rk": 3,
    "team": "D2",
    "pts": 300,
-   "drv": 5,
+   "drv": 6,
    "blk": 3
   },
   {
-   "rk": 4,
-   "team": "D1",
-   "pts": 200,
-   "drv": 5,
+   "rk": 3,
+   "team": "D6",
+   "pts": 300,
+   "drv": 6,
    "blk": 0
   },
   {
-   "rk": 4,
+   "rk": 5,
+   "team": "D1",
+   "pts": 200,
+   "drv": 6,
+   "blk": 0
+  },
+  {
+   "rk": 5,
    "team": "D5",
    "pts": 200,
    "drv": 5,
    "blk": 0
   },
   {
-   "rk": 4,
-   "team": "D6",
-   "pts": 200,
-   "drv": 5,
-   "blk": 0
-  },
-  {
-   "rk": 4,
+   "rk": 5,
    "team": "D7",
    "pts": 200,
    "drv": 5,
