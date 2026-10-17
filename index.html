@@ -36,10 +36,11 @@ function tick(){if(!upd)return;const t=new Date(upd);if(isNaN(t))return;
  document.getElementById('up').textContent='Updated '+t.toLocaleTimeString('en-US',{timeZone:'America/Chicago',hour:'numeric',minute:'2-digit',hour12:true}).replace(/ [AP]M/,'')+' CT';
  document.getElementById('st').style.display=(Date.now()-t>300000)?'inline':'none'}
 async function load(src){try{const d=await (await fetch(src||('totals.json?t='+Date.now()),{cache:'no-store',headers:src?{Accept:'application/vnd.github.raw'}:{}})).json();
+ const ep=d.updated_epoch?(d.updated_epoch<1e12?d.updated_epoch*1000:d.updated_epoch):0;if(ep&&typeof upd==='number'&&ep<upd)return;
  let lp=g(d,'last_pair','lastPair');if(lp&&typeof lp==='object')lp=[lp.time_ct?lp.time_ct+' CT':'',[lp.class,lp.round].filter(Boolean).join(' ')+':',Array.isArray(lp.names)?lp.names.join(' vs '):(lp.names||'')].join(' ').trim();document.getElementById('lp').textContent=lp;upd=d.updated_epoch?(d.updated_epoch<1e12?d.updated_epoch*1000:d.updated_epoch):g(d,'updated_ct','updated','updated_at');
  fill('dv',g(d,'divisions','division'));fill('rg',g(d,'regions','regional'));tick()}catch(e){}}
 async function refreshNow(){const b=document.getElementById('rb');b.disabled=true;b.textContent='REFRESHING…';const before=upd;
  await load('https://api.github.com/repos/mad1661/jegs-tally/contents/totals.json?ref=main&t='+Date.now());if(upd===before)await load();
  b.textContent='REFRESH POINTS';b.disabled=false}
-load();setInterval(()=>load(),20000);setInterval(tick,15000);
+load();load('https://api.github.com/repos/mad1661/jegs-tally/contents/totals.json?ref=main&t='+Date.now());setInterval(()=>load(),20000);setInterval(()=>{if(!document.hidden)load('https://api.github.com/repos/mad1661/jegs-tally/contents/totals.json?ref=main&t='+Date.now())},90000);setInterval(tick,15000);
 </script></body></html>
